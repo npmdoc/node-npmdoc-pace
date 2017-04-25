@@ -1,6 +1,6 @@
 # npmdoc-pace
 
-#### api documentation for  [pace (v0.0.4)](http://cantina.github.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-pace.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pace) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pace.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pace)
+#### basic api documentation for  [pace (v0.0.4)](http://cantina.github.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-pace.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-pace) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-pace.svg)](https://travis-ci.org/npmdoc/node-npmdoc-pace)
 
 #### Command-line progress bar and progress metrics.  Helps you measure the 'pace' of a long-running script.
 
@@ -54,7 +54,8 @@
         "url": "git://github.com/cpsubrian/pace.git"
     },
     "scripts": {},
-    "version": "0.0.4"
+    "version": "0.0.4",
+    "bin": {}
 }
 ```
 
